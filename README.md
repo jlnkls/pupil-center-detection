@@ -3,3 +3,9 @@ Pupil center detection detects the centers of pupils from images obtained by a g
 
 ## Software Architecture
 ![Software Architecture](https://github.com/jlnkls/pupil-center-detection/blob/main/doc/sw_architecture.png)
+
+## Block Diagram
+![Block Diagram](https://github.com/jlnkls/pupil-center-detection/blob/main/doc/block_diagram.png)
+
+## Intermediate Processing
+![Intermediate Processing](https://github.com/jlnkls/pupil-center-detection/blob/main/doc/intermediate_processing.png)
